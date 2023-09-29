@@ -1,0 +1,14 @@
+D:\ws\ws-balta\Proj003\bin\Debug\net7.0\Proj003.exe
+D:\ws\ws-balta\Proj003\bin\Debug\net7.0\Proj003.deps.json
+D:\ws\ws-balta\Proj003\bin\Debug\net7.0\Proj003.runtimeconfig.json
+D:\ws\ws-balta\Proj003\bin\Debug\net7.0\Proj003.dll
+D:\ws\ws-balta\Proj003\bin\Debug\net7.0\Proj003.pdb
+D:\ws\ws-balta\Proj003\obj\Debug\net7.0\Proj003.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws\ws-balta\Proj003\obj\Debug\net7.0\Proj003.AssemblyInfoInputs.cache
+D:\ws\ws-balta\Proj003\obj\Debug\net7.0\Proj003.AssemblyInfo.cs
+D:\ws\ws-balta\Proj003\obj\Debug\net7.0\Proj003.csproj.CoreCompileInputs.cache
+D:\ws\ws-balta\Proj003\obj\Debug\net7.0\Proj003.dll
+D:\ws\ws-balta\Proj003\obj\Debug\net7.0\refint\Proj003.dll
+D:\ws\ws-balta\Proj003\obj\Debug\net7.0\Proj003.pdb
+D:\ws\ws-balta\Proj003\obj\Debug\net7.0\Proj003.genruntimeconfig.cache
+D:\ws\ws-balta\Proj003\obj\Debug\net7.0\ref\Proj003.dll
